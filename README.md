@@ -21,13 +21,13 @@ Você precisa ter o Claude Code instalado. Se ainda não tem:
 Peça ao seu Claude para clonar o repositório:
 
 ```
-Clone este repositório no meu computador: [LINK DO REPO]
+Clone este repositório no meu computador: https://github.com/beonbeprime/zeus-pages
 ```
 
 Ou, se você sabe usar o terminal:
 
 ```bash
-git clone [LINK DO REPO] lp-builder
+git clone https://github.com/beonbeprime/zeus-pages lp-builder
 cd lp-builder
 ```
 
